@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="about">
+        <item>About</item>
+        <item>Ecology</item>
+        <item>Climate</item>
+        <item>Economy</item>
+    </string-array>
+
+    <string-array name="about_desc">
+        <item>Delhi, officially the National Capital Territory of Delhi or NCT, is a city and a union territory of India. It is bordered by Haryana on three sides and by Uttar Pradesh to the east. The NCT covers an area of 1,484 square kilometres (573 sq mi).</item>
+        <item>Delhi is located at 28.61°N 77.23°E, and lies in Northern India. It borders the Indian states of Haryana on the north, west and south and Uttar Pradesh (UP) to the east. Two prominent features of the geography of Delhi are the Yamuna flood plains and the Delhi ridge. The Yamuna river was the historical boundary between Punjab and UP, and its flood plains provide fertile alluvial soil suitable for agriculture but are prone to recurrent floods. The Yamuna, a sacred river in Hinduism, is the only major river flowing through Delhi. The Hindon River separates Ghaziabad from the eastern part of Delhi. The Delhi ridge originates from the Aravalli Range in the south and encircles the west, north-east and north-west parts of the city. It reaches a height of 318 m (1,043 ft) and is a dominant feature of the region.</item>
+        <item>Delhi features an atypical version of the humid subtropical climate bordering a hot semi-arid climate. The warm season lasts from 9 April to 8 July with an average daily high temperature above 36 °C (97 °F). The hottest day of the year is 22 May, with an average high of 38 °C (100 °F) and low of 25 °C (77 °F). The cold season lasts from 11 December to 11 February with an average daily high temperature below 18 °C (64 °F). The coldest day of the year is 4 January, with an average low of 2 °C (36 °F) and high of 15 °C (59 °F). In early March, the wind direction changes from north-westerly to south-westerly. From April to October the weather is hot. The monsoon arrives at the end of June, along with an increase in humidity. The brief, mild winter starts in late November, peaks in January and heavy fog often occurs.</item>
+        <item>Delhi is the largest commercial centre in northern India. As of 2016 recent estimates of the economy of the Delhi urban area have ranged from $167 to $370 billion (PPP metro GDP) ranking it either the most or second-most productive metro area of India. The nominal GSDP of the NCT of Delhi for 2016-17 was estimated at ₹6,224 billion (US$97 billion), 13% higher than in 2015-16.</item>
+    </string-array>
+
+    <string-array name="food_outlet_name">
+        <item>Big Yellow Door</item>
+        <item>Pizza Hut</item>
+        <item>Burger King</item>
+        <item>Barbeque Nation</item>
+        <item>Khan Chacha</item>
+    </string-array>
+
+    <string-array name="food_outlet_desc">
+        <item>BYD is a combination of good food, cordial service, pocket friendly prices and bundle of good times.</item>
+        <item>One of my favorite pizza joints in the country. They serve the fluffy pizzas with the correct quantity of ingredients.</item>
+        <item>Burger King is famous for its Burgers and Fast food they serve. Speciality: Mutton Whopper, Chicken Whopper, Crispy Chicken</item>
+        <item>Best barbeque restaurant in india.Barbeque Nation is one of the better options when it comes to buffet style dining.</item>
+        <item>This place is known for serving best rolls</item>
+    </string-array>
+
+    <string-array name="food_outlet_address">
+        <item>H-8,Opposite Venkateswara College, Satyaniketan, New Delhi</item>
+        <item>M 20, Outer Circle, Connaught Place, New Delhi, Delhi 110001</item>
+        <item>Unity One Mall. Unit No. GF 5 Orchard Road Janak Puri West Metro Station, Delhi, 110058</item>
+        <item>Unity One, 2nd Floor, Narang Colony, Chander Nagar, Janakpuri, New Delhi, Delhi 110018</item>
+        <item>D-3, Connaught Place, New Delhi</item>
+    </string-array>
+
+    <string-array name="food_outlet_timing">
+        <item>10AM to 11PM</item>
+        <item>11AM to 11PM</item>
+        <item>10AM to 11PM</item>
+        <item>12PM to 3PM and 6PM to 12AM</item>
+        <item>12 Noon to 11PM</item>
+    </string-array>
+
+    <string-array name="food_outlet_price">
+        <item>$$</item>
+        <item>$$</item>
+        <item>$$</item>
+        <item>$$$$</item>
+        <item>$$$</item>
+    </string-array>
+
+    <string-array name="food_outlet_contact">
+        <item>+91 7042294297</item>
+        <item>011 33106269</item>
+        <item>011 2561 5440</item>
+        <item>011 6060 0000</item>
+        <item>011 43036111</item>
+
+    </string-array>
+
+    <string-array name="shop_name">
+        <item>LifeStyle</item>
+        <item>Forever 21</item>
+        <item>Levis</item>
+        <item>Pantaloons</item>
+    </string-array>
+
+    <string-array name="shop_desc">
+        <item>Lifestyle is one of the most trusted purveyors of unique, designer products in India. It provides you an exquisite range of Branded Clothes, Artificial Jewelry, Watches, Babycare,Home Acessories</item>
+        <item>Forever21 offers the most current fashions for women and men.Find the best selection of fashion tops, dresses, denim, shoes</item>
+        <item>It has the best selection of Levis jeans, jackets, and clothing for men, women, and kids</item>
+        <item>Shop for Ethnic, Formal, Casual, Western Wear and More.</item>
+    </string-array>
+
+    <string-array name="shop_address">
+        <item>Najafgarh Rd, Block 6, Tilak Nagar, New Delhi, Delhi 110018</item>
+        <item>DLF Place Anchor-F 1st Floor GF-A4 District Centre, Saket Rd, Press Enclave, Saket, Delhi 110017</item>
+        <item>B-19, Near Mc Donald, Inner Circle, Connaught Place, Delhi 110001</item>
+        <item>Unity One Mall, Near Janakpuri West Metro station, New Delhi, Delhi 110058</item>
+    </string-array>
+
+    <string-array name="shop_timing">
+        <item>11AM to 10PM</item>
+        <item>10AM to 10PM</item>
+        <item>10AM to 10PM</item>
+        <item>11AM to 9PM</item>
+    </string-array>
+
+    <string-array name="shop_contact">
+        <item>011 4981 2100</item>
+        <item>011 4106 6881</item>
+        <item>011 4567 4046</item>
+        <item>011 2561 5400</item>
+    </string-array>
+
+    <string-array name="sight_name">
+        <item>Red Fort</item>
+        <item>Qutub Minar</item>
+        <item>Akshardham Temple</item>
+        <item>Safdarjang Tomb</item>
+    </string-array>
+
+    <string-array name="sight_desc">
+        <item>The Red Fort, the largest monument in Delhi, is one of its most popular tourist destinations and attracts thousands of visitors every year.</item>
+        <item>Qutub Minar is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India.</item>
+        <item>Akshardham or Swaminarayan Akshardham complex is a Hindu mandir, and a spiritual-cultural campus in New Delhi, India.</item>
+        <item>Safdarjungs Tomb is a sandstone and marble mausoleum in New Delhi, India. It was built in 1754 in the late Mughal Empire style</item>
+    </string-array>
+
+    <string-array name="sight_address">
+        <item>Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006</item>
+        <item>Mehrauli, New Delhi, Delhi 110030</item>
+        <item>Noida Mor, Pandav Nagar, New Delhi, Delhi 110092</item>
+        <item>Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110021</item>
+    </string-array>
+
+    <string-array name="sight_timing">
+        <item>11AM to 5PM</item>
+        <item>7AM to 5PM</item>
+        <item>9AM to 7PM</item>
+        <item>7AM to 5PM</item>
+    </string-array>
+
+    <string-array name="sight_contact">
+        <item>011 2327 3305</item>
+        <item>011 2327 6604</item>
+        <item>011 2327 4402</item>
+        <item>011 2327 2207</item>
+    </string-array>
+
+</resources>

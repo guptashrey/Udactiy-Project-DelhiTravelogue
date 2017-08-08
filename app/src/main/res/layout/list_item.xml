@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/photoImageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/nameTextView"
+                style="@style/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/descriptionTextView"
+                style="@style/description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/addressTextView"
+                style="@style/addressSchedulePricePhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="map"
+                android:drawableLeft="@drawable/ic_location_on_black_24dp"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/timingTextView"
+                style="@style/addressSchedulePricePhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_schedule_black_24dp"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/priceTextView"
+                style="@style/addressSchedulePricePhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_attach_money_black_24dp"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/contactTextView"
+                style="@style/addressSchedulePricePhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:drawableLeft="@drawable/ic_call_black_24dp"
+                android:text="" />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
